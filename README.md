@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Arthur👋
 
-<!--
-**arthur-tadeu/arthur-tadeu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Backend Developer focused on building web systems and continuously improving my programming skills.
+
+My goal is to grow in the software development field, gain professional experience and later specialize in Cloud Computing and Artificial Intelligence.
+
+---
+
+## 🚀 Technologies
+
+Backend
+- PHP
+- Laravel
+- Java
+- Go (currently learning)
+--------------------------------------
+Frontend
+- JavaScript
+- CSS
+- HTML
+--------------------------------------
+
+
+## 📚 Currently Learning
+
+- Go (Golang)
+- Backend architecture
+- Scalable systems
