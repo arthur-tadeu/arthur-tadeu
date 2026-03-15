@@ -4,6 +4,7 @@
 
 <h3 align="center">
 💻 Backend Developer | PHP • Go • Java  
+
 🇧🇷 From Brazil
 </h3>
 
@@ -19,30 +20,62 @@
 
 </p>
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=arthur-tadeu&label=Profile%20views&color=0e75b6&style=flat"/>
+</p>
+
 ---
+
 💻 Backend Developer focused on building web systems and continuously improving my programming skills.
 
-My goal is to grow in the software development field, gain professional experience and later specialize in Cloud Computing and Artificial Intelligence.
+I plan to pursue a Computer Science degree and specialize in Cloud Computing and Artificial Intelligence.
 
 ---
 
-## 🚀 Technologies
+# 🚀 Technologies
 
-Backend
-- PHP
-- Laravel
-- Java
-- Go (currently learning)
---------------------------------------
-Frontend
-- JavaScript
-- CSS
-- HTML
---------------------------------------
+<p align="center">
 
+<img src="https://skillicons.dev/icons?i=php,laravel,java,go,js,css,html" />
 
-## 📚 Currently Learning
+</p>
+
+---
+
+# 📚 Currently Learning
 
 - Go (Golang)
 - Backend architecture
 - Scalable systems
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arthur-tadeu&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-tadeu&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=arthur-tadeu&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+</p>
