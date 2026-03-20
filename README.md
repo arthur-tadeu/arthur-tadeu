@@ -26,18 +26,56 @@
 
 ---
 
-💻 Backend Developer focused on building web systems and continuously improving my programming skills.
+---
 
-I plan to pursue a Computer Science degree and specialize in Cloud Computing and Artificial Intelligence.
+# 🧠 About Me
+
+💻 Backend Developer focused on building scalable and well-structured web systems.
+
+I have a strong foundation in software development, with solid experience in **Java** and **PHP**. I'm currently focused on learning **Go (Golang)** and improving my skills in **Cloud Computing** and **Artificial Intelligence**, aiming to design modern, efficient and resilient systems.
+
+🎓 I plan to pursue a degree in Computer Science to deepen my knowledge in software engineering and distributed systems.
+
+I enjoy working with backend architectures, applying concepts like **Clean Architecture**, **DDD**, and building reliable APIs.
+
+---
+
+# 📜 Certifications & Education
+
+- 🏫 Technical Degree in Systems Development - SENAI (Expected 2026)
+- ☁️ AWS Cloud Practitioner Foundations (2025)
+- ☁️ Microsoft Azure AZ-900 (2025)
+- 🧠 FLUÊNCIA - Fundamentos da Inteligência Artificial (2025)
+- ☕ Java Foundations - Oracle (2025)
+
+---
 
 ---
 
 # 🚀 Technologies
 
+## 🧠 Backend
+
 <p align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,java,go" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,java,go,js,css,html" />
+## 🗄️ Databases
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase" />
+</p>
+
+## ☁️ Cloud & Infrastructure
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,docker" />
+</p>
+
+## 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,html,css" />
 </p>
 
 ---
